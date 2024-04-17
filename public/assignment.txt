@@ -1,0 +1,14 @@
+Hi
+
+Thanks for applying for full stack role.
+We are doing LLM research and looking for someone who can work as full stack intern .
+There will be an assignment. Only do if you can work from NCR and come to office and are either college passout or in final year:
+
+Create a quiz app in react/nextjs app:
+
+1. It takes a list of 10 questions from json file inside the app
+2. It ask question 1 by 1
+3. Test has to be taken in full view mode. You should show a blocker pop if it is not full screen
+4. If I swtich to another tab it should mark ti as vioilatin and show voliation count
+5. At the end it should show my marks
+6. At amy time if i referesh the page it should start from where i was(mean it should store the info).
